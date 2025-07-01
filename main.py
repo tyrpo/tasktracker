@@ -5,7 +5,7 @@ from app.handlers import router_handlers
 from database.models import Base
 from database.init_database import engine
 
-bot = Bot(token="7906729088:AAHZgznzpmZ6vR5vKyCDBuU-NuXjDzDh0dU")
+bot = Bot(token="ТВОЙ БОТ АПИ")
 dp = Dispatcher()
 
 
